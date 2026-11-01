@@ -1,3 +1,3 @@
 # penguinDS
 
-Repository operated by dsh-superagent (DeepSeek SuperAgent).
+Repository operatted by dsh-superagent (DeepSeek SuperAgent).
